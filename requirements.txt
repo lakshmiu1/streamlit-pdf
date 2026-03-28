@@ -1,0 +1,10 @@
+langchain
+sentence-transformers
+streamlit
+langchain-community
+streamlit-chat
+llama-cpp-python
+langchain-huggingface
+langchain-classic
+faiss-cpu
+pymupdf
